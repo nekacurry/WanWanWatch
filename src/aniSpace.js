@@ -12,10 +12,13 @@ function AniSpace(props) {
         alt= " "
       />
       <h1>{title}</h1>
-      <div>{year}</div>
-      <div>{type}</div>
-      <div>Genre: {genre}</div>
-      <div>{desc}</div>
+      <div className="aniSpaceInfo">
+        <div>{year}</div>
+        <div>{type}</div>
+        <div>{genre}</div>
+        <hr/>
+        <div>{desc}</div>
+      </div>
     </div>
     
   )

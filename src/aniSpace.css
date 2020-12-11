@@ -1,0 +1,12 @@
+.aniSpaceInfo {
+  margin-top: 20px;
+  border-style: double;
+  padding: 10px 30px 30px;
+  line-height: 30px;
+}
+
+.aniSpace img {
+  box-shadow: 10px 10px 10px #100916e0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto+Mono&display=swap');
