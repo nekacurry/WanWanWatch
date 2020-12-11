@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WanWanWatch/static/css/main.db52b4d9.chunk.css",
-    "main.js": "/WanWanWatch/static/js/main.19768edc.chunk.js",
-    "main.js.map": "/WanWanWatch/static/js/main.19768edc.chunk.js.map",
+    "main.js": "/WanWanWatch/static/js/main.318090f4.chunk.js",
+    "main.js.map": "/WanWanWatch/static/js/main.318090f4.chunk.js.map",
     "runtime-main.js": "/WanWanWatch/static/js/runtime-main.49a5529c.js",
     "runtime-main.js.map": "/WanWanWatch/static/js/runtime-main.49a5529c.js.map",
     "static/js/2.3bbebf33.chunk.js": "/WanWanWatch/static/js/2.3bbebf33.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.49a5529c.js",
     "static/js/2.3bbebf33.chunk.js",
     "static/css/main.db52b4d9.chunk.css",
-    "static/js/main.19768edc.chunk.js"
+    "static/js/main.318090f4.chunk.js"
   ]
 }
