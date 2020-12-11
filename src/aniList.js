@@ -1,15 +1,15 @@
 import React from 'react'
-import data from './anime_list.json'
+import data from './AniData.json'
 import AniSpace from './aniSpace.js'
 import './aniList.css'
 
 function AniList() {
 
-  const spaces = data.map(( { title, image, year, type, genre, desc } ) => {
+  const spaces = data.map(( { title, images, year, type, genre, desc } ) => {
     return (
         <AniSpace 
         title={title}
-        image={image}
+        image={images}
         year={year}
         type={type}
         genre={genre}

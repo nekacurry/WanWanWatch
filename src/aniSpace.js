@@ -7,9 +7,8 @@ function AniSpace(props) {
   const { title, image, year, type, genre, desc  } = props
   return (
     <div className="aniSpace">
-      <img src={`${process.env.PUBLIC_URL}images/${image}`}      
-        width="300" 
-        height="300" 
+      <img  src={`${process.env.PUBLIC_URL}images/${image}`}     
+        height="500"
         alt= " "
       />
       <h1>{title}</h1>
