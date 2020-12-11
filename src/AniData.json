@@ -36,7 +36,7 @@
     "genre": "High Fantasy, Drama",
     "desc":"The people of Iolph are known for two things: their youthful longevity and peaceful lives weaving tapestry. When that is disturbed and their home thrown into chaos by those believing that their blood gifts longer life, Maquia loses not only her friends, but a place to return to.",
     "images":[
-       "./public/images/maquia.jpg"
+       "maquia.jpg"
     ]
   },
   {
@@ -125,7 +125,7 @@
     "type":"TV Series",
     "genre": "Adventure, Dark Fantasy",
     "desc":"Ao no Exorcist follows Rin Okumura who appears to be an ordinary, somewhat troublesome teenager—that is until one day he is ambushed by demons. His world turns upside down when he discovers that he is in fact the very son of Satan and that his demon father wishes for him to return so they can conquer Assiah together. Not wanting to join the king of Gehenna, Rin decides to begin training to become an exorcist so that he can fight to defend Assiah alongside his brother Yukio.",
-    "image":[
+    "images":[
        "aono.jpg"
     ]
   },
@@ -135,8 +135,8 @@
     "type":"TV Series",
     "genre": "Magical Girl, Dark Fantasy, Psychological Thriller",
     "desc":"A girl is offered a wish in exchange for a commitment to battling witches, a group of magical beings whose souls have been tainted by darkness.",
-    "image":[
-       "madoka.jpg"
+    "images":[
+      "madoka.jpg"
     ]
   },
   {
@@ -145,8 +145,8 @@
     "type":"TV Series",
     "genre": "Dark Comedy, Satire",
     "desc":"Nozomu Itoshiki is a high school teacher so pessimistic that even the smallest of misfortunes can send him into a pit of raging despair; some of these 'catastrophes' even lead to suicide attempts. Sayonara Zetsubou Sensei is a satirical slice-of-life comedy set in the modern day, covering various aspects of Japanese life and culture through Nozomu and his interactions with his students, all of whom are just as eccentric as their teacher.",
-    "image":[
-       "sensei.jpg"
+    "images":[
+      "sensei.jpg"
     ]
   }
 ]
