@@ -11,8 +11,9 @@ function AniSpace(props) {
         height="500"
         alt= " "
       />
-      <h1>{title}</h1>
-      <div className="aniSpaceInfo">
+      
+      <div className="overlay">
+        <h1>{title}</h1>
         <div>{year}</div>
         <div>{type}</div>
         <div>{genre}</div>

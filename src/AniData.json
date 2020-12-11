@@ -40,13 +40,13 @@
     ]
   },
   {
-    "title":"Psycho Pass",
-    "year":"2012",
+    "title":"Houseki no Kuni",
+    "year":"2017",
     "type":"TV Series",
-    "genre": "Crime, Cyberpunk, Psychological Thriller",
-    "desc":"Justice, and the enforcement of it, has changed. In the 22nd century, Japan enforces the Sibyl System, an objective means of determining the threat level of each citizen by examining their mental state for signs of criminal intent, known as their Psycho-Pass. Inspectors uphold the law by subjugating, often with lethal force, anyone harboring the slightest ill-will; alongside them are Enforcers, jaded Inspectors that have become latent criminals, granted relative freedom in exchange for carrying out the Inspectors' dirty work.",
+    "genre": "Action, Fantasy",
+    "desc":"Instead of flesh, their bodies are made of living crystal, allowing them to survive a world too toxic for humans. But their gem bodies also attract a terrible danger: the Lunarians, who hunt the gems and use their shattered forms to make jewellery.",
     "images":[
-       "pass.jpg"
+       "land.jpeg"
     ]
   },
   {
@@ -100,13 +100,13 @@
     ]
   },
   {
-    "title":"Houseki no Kuni",
-    "year":"2017",
+    "title":"Psycho Pass",
+    "year":"2012",
     "type":"TV Series",
-    "genre": "Action, Fantasy",
-    "desc":"Instead of flesh, their bodies are made of living crystal, allowing them to survive a world too toxic for humans. But their gem bodies also attract a terrible danger: the Lunarians, who hunt the gems and use their shattered forms to make jewellery.",
+    "genre": "Crime, Cyberpunk, Psychological Thriller",
+    "desc":"Justice, and the enforcement of it, has changed. In the 22nd century, Japan enforces the Sibyl System, an objective means of determining the threat level of each citizen by examining their mental state for signs of criminal intent, known as their Psycho-Pass. Inspectors uphold the law by subjugating, often with lethal force, anyone harboring the slightest ill-will; alongside them are Enforcers, jaded Inspectors that have become latent criminals, granted relative freedom in exchange for carrying out the Inspectors' dirty work.",
     "images":[
-       "land.jpeg"
+       "pass.jpg"
     ]
   },
   {
