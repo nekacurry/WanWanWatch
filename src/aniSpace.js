@@ -17,8 +17,8 @@ function AniSpace(props) {
         <div>{year}</div>
         <div>{type}</div>
         <div>{genre}</div>
-        <hr/>
-        <div>{desc}</div>
+        <div>★</div>
+        <div className="desc">{desc}</div>
       </div>
     </div>
     
