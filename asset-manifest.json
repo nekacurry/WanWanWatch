@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WanWanWatch/static/css/main.db52b4d9.chunk.css",
+    "main.js": "/WanWanWatch/static/js/main.19768edc.chunk.js",
+    "main.js.map": "/WanWanWatch/static/js/main.19768edc.chunk.js.map",
+    "runtime-main.js": "/WanWanWatch/static/js/runtime-main.49a5529c.js",
+    "runtime-main.js.map": "/WanWanWatch/static/js/runtime-main.49a5529c.js.map",
+    "static/js/2.3bbebf33.chunk.js": "/WanWanWatch/static/js/2.3bbebf33.chunk.js",
+    "static/js/2.3bbebf33.chunk.js.map": "/WanWanWatch/static/js/2.3bbebf33.chunk.js.map",
+    "static/js/3.9f014644.chunk.js": "/WanWanWatch/static/js/3.9f014644.chunk.js",
+    "static/js/3.9f014644.chunk.js.map": "/WanWanWatch/static/js/3.9f014644.chunk.js.map",
+    "index.html": "/WanWanWatch/index.html",
+    "static/css/main.db52b4d9.chunk.css.map": "/WanWanWatch/static/css/main.db52b4d9.chunk.css.map",
+    "static/js/2.3bbebf33.chunk.js.LICENSE.txt": "/WanWanWatch/static/js/2.3bbebf33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49a5529c.js",
+    "static/js/2.3bbebf33.chunk.js",
+    "static/css/main.db52b4d9.chunk.css",
+    "static/js/main.19768edc.chunk.js"
+  ]
+}
